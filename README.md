@@ -31,3 +31,6 @@ Enter number or new list name:
 ```
 
 At the end the formatted output will be written to console, append this to your todo.txt file and you are done! Now don't go get yourself at the mercy of a close walled garden again :)
+
+##Why do I need to manually add lists?
+When exporting from Reminders, you need to select all the lists you want to export and then "file -> export"... Unfortunately this looses information on which list the todo item was in! So we have to re-add this info 
