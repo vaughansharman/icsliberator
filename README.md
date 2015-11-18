@@ -27,7 +27,7 @@ Known lists are:
 3. Ideas
 4. Funky
 5. Travel
-6. Enter number or new list name:
+Enter number or new list name:
 ```
 
 At the end the formatted output will be written to console, append this to your todo.txt file and you are done! Now don't go get yourself at the mercy of a close walled garden again :)
